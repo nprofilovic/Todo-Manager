@@ -10,6 +10,7 @@ module.exports = {
         'vue/singleline-html-element-content-newline': 0,
         'vue/max-attributes-per-line': 0,
         'no-unused-vars': 0,
-        'vue/name-property-casing': 0
+        'vue/name-property-casing': 0,
+        'vue/attributes-order': 0
     }
 }
